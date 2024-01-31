@@ -1,0 +1,11 @@
+{
+    "siteImage":"#site-name > a",
+    "inputFormsDropDownButton":":nth-child(1) > :nth-child(1) > .dropdown-toggle",
+    "simpleFormDemoButton":".open > .dropdown-menu > :nth-child(1) > a",
+    "messageField":".form-group > #user-message",
+    "message":"My name is armstrong",
+    "showMessage":"#get-input > .btn",
+    "value1Field":"#value1",
+    "value2Field":"#value2",
+    "getTotalButton":"#gettotal > .btn"
+}
